@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "postleitzahlen-scraper",
+  "version": "0.0.0",
+  "description": "get geodata of german postcodes directy from the source",
+  "main": "scraper.js",
+  "author": "yetzt",
+  "license": "Unlicense"
+}
